@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1673065214 source:c:\users\anaun\onedrive\desktop\informatica\info\proiect\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<cstring>
+	<string>
+	<iostream>
+	<iomanip>
+	<winbgim.h>
+	<fstream>
+	<ctime>
+
+1673419687 source:c:\users\casia\onedrive\desktop\proiect_ip\proiect\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<cstring>
+	<string>
+	<iostream>
+	<iomanip>
+	<winbgim.h>
+	<fstream>
+	<ctime>
+
